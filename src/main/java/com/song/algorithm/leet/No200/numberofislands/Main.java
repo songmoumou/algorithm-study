@@ -27,6 +27,7 @@ public class Main {
         {'1','0','0','0','0','0','0','0','1'},
         {'1','1','1','1', '1','1','1','1','1'}};
     //System.out.println(new InfectAlgorithm().numIslands(grid));
-    System.out.println(new DFS_M().numIslands(grid));
+    //System.out.println(new DFS_M().numIslands(grid));
+    //System.out.println(grid[20]);
   }
 }
